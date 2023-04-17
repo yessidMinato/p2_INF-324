@@ -1,0 +1,5 @@
+c:\users\yessid\documents\visual studio 2012\Projects\p2_INF-324\p2_INF-324\bin\2.dll
+c:\users\yessid\documents\visual studio 2012\Projects\p2_INF-324\p2_INF-324\bin\2.pdb
+c:\users\yessid\documents\visual studio 2012\Projects\p2_INF-324\p2_INF-324\obj\Debug\p2_INF-324.csprojResolveAssemblyReference.cache
+c:\users\yessid\documents\visual studio 2012\Projects\p2_INF-324\p2_INF-324\obj\Debug\2.dll
+c:\users\yessid\documents\visual studio 2012\Projects\p2_INF-324\p2_INF-324\obj\Debug\2.pdb
